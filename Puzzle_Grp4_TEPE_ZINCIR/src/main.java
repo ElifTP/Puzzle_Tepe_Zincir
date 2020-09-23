@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 
+import static java.time.Clock.system;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -31,6 +32,8 @@ public class main extends Application {
      */
     public static void main(String[] args) {
         launch(args);
+           System.out.println("github fonctionne ?");
     }
     
+ 
 }
