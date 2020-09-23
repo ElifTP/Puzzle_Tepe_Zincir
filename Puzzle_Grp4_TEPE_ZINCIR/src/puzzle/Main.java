@@ -1,3 +1,5 @@
+package puzzle;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -15,7 +17,7 @@ import javafx.stage.Stage;
  *
  * @author zinci
  */
-public class main extends Application {
+public class Main extends Application {
     
     @Override
     public void start(Stage stage) throws Exception {
