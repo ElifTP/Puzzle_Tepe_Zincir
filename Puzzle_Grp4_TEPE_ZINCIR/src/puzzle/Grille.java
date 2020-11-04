@@ -11,4 +11,5 @@ package puzzle;
  */
 public class Grille {
     
+    
 }
