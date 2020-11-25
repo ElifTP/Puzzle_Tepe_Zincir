@@ -10,6 +10,11 @@ package puzzle;
  * @author ilayd
  */
 public class Parametres {
-    
+    static final int HAUT = 1;
+    static final int DROITE = 2;
+    static final int BAS = -1;
+    static final int GAUCHE = -2;
+    static final int TAILLE = 4;
+            
     
 }
