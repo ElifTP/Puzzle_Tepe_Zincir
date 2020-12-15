@@ -24,5 +24,6 @@
       <Button layoutX="268.0" layoutY="232.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="50.0" />
       <Button layoutX="126.0" layoutY="35.0" mnemonicParsing="false" text="Nouveau Jeu" />
       <Button layoutX="227.0" layoutY="35.0" mnemonicParsing="false" text="Voir le score" />
+      
    </children>
 </AnchorPane>
